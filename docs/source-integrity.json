@@ -1,0 +1,16 @@
+{
+  "copied_sha256": {
+    "core/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "core/batch_pipeline.py": "84900dca05ca05564183a2f8f8e457801c4f04a0e5789e15c5c47bc811d1050b",
+    "core/confidence.py": "22031ba47c09da4780de6d4c3263ca4f6a16fcd874bf34cfdc631cacb5e67739",
+    "core/features.py": "67b085bf21c3f627de3964c51064134de770e96d615093a8901246d9eb5419d4",
+    "core/normalization.py": "3bb502bfe70ac36ad13229d3d82d53a78c68903e6d0ab08ce5c6dd6a41d10fa6",
+    "core/ranker.py": "4adae3cbfe58201a7ad1df2243347650c30df139981372ccb4002fb61e4a61c5",
+    "core/retrieval.py": "5559080d5271497b4fbaca7ddb2cc7f7f6d4f651bfe3c1df8c9b71a50e13e921",
+    "core/review_safety.py": "0b65b8e7cd6f17a3b55cd6916d2b8a88b031154a4dfe5151e49c6bb0be8a2478",
+    "core/validation.py": "387940a40a866cb7466a93ff62c388bf1a5d77c22af15c3e61063011d9ec1793",
+    "service/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "service/app.py": "6a2f1aa8997a1717e221f111b4f8496b3aeeb54f124c91e93817741694dc23de"
+  },
+  "normalization_extraction": "06_build_pair_features.py: normalize_name AST identical; research CLI omitted"
+}
