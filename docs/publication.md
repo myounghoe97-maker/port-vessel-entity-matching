@@ -5,6 +5,7 @@
 ## 공개 파일 분류
 
 - 원문 복사: 현재 활성 core 9개 모듈(초기화 포함), service 2개 파일. `source-integrity.json`에 SHA256을 기록했습니다.
+- `.gitattributes`로 자동 줄바꿈 변환을 막아 Windows clone에서도 원본 바이트와 무결성 테스트를 보존합니다.
 - 제한 추출: STEP 6의 `normalize_name` 함수와 필요한 import만 공개. 원본 함수 AST와 일치합니다.
 - 새 문서 및 테스트: README, 구조·평가·자산 명세·공개 기록, 합성 테스트, 입력 스키마, 의존성, ignore 및 라이선스.
 - 원본의 빈 `core/pipeline.py`, backup 파일, automation 기반 `run_project.py`와 `project_config.json`은 공개 실행 경로에서 제외했습니다.
